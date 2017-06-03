@@ -28,6 +28,7 @@ We roughly break down the agumentation methods into 6:
    fuction:
        augmentation function: eg. noise_add()
        read audio file: eg. wav, pcm
+ 
 2) augmentation
    type: class
    abstract clase: augmentation , funciton: __init__() and transform_audio()

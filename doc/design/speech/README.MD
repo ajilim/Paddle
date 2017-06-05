@@ -38,7 +38,9 @@ We roughly break down the agumentation methods into 6:
 
    type: class
    
-   abstract clase: augmentation , funciton: __init__() and transform_audio()
+   abstract clase: augmentation , 
+   
+      funciton: __init__() and transform_audio()
    
    6 Inheritance class ： eg. walla_noise
 

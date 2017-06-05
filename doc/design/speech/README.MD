@@ -23,15 +23,23 @@ We roughly break down the agumentation methods into 6:
 
 ## Implementation
 1） audio 
+
    type：class
+   
    params： samples， sample_rate
+   
    fuction:
+   
        augmentation function: eg. noise_add()
+       
        read audio file: eg. wav, pcm
  
 2) augmentation
+
    type: class
+   
    abstract clase: augmentation , funciton: __init__() and transform_audio()
+   
    6 Inheritance class ： eg. walla_noise
 
 
